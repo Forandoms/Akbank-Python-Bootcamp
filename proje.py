@@ -291,7 +291,7 @@ while (telephone_check):
 kullanici_bilgileri = [isim, Soyisim, telefon_no, tckn, card_number, ccv, last_month, last_year ]
 
 
-# Bilgilerin dosyaya aktarıldığı kısım.
+# The part where the information is transferred to the file.
 fp = open("Orders_Database.csv", "a+")
 
 for i in range(8):  
