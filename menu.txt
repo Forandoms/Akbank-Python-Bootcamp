@@ -1,0 +1,18 @@
+
+* Please Choose a Pizza Base:
+ 
+ Pizza's:                                         cost:
+1: Classic                                        + 125.00
+2: Margherita                                     + 140.00
+3: TurkPizza                                      + 155.00 
+4: PlainPizza                                     + 100.00  
+                                                   
+* and sauce of your choice: 
+
+ toppings:                                        cost: FREE !!!
+1: Olives                                         + 6.00  X
+2: Mushrooms                                      + 7.00  X
+3: GoatCheese                                     + 10.00 X
+4: Meat                                           + 20.00 X
+5: Onions                                         + 8.00  X
+6: Corn                                           + 5.00  X
