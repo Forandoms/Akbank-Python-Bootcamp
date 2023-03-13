@@ -58,14 +58,14 @@ fiyat = olives.get_cost()
 onions = Onions()
 fiyat = onions.get_cost()             
 #--------------------------------------------
-corn = Meat()
+meat = Meat()
 fiyat = corn.get_cost()  
 #--------------------------------------------
-corn = Corn()
-fiyat = corn.get_cost()  
+goatcheese = Corn()
+fiyat = goatcheese.get_cost()  
 #--------------------------------------------
-corn = Corn()
-fiyat = corn.get_cost()  
+mushrooms = Corn()
+fiyat = mushrooms.get_cost()  
 
 # Top pizza class
 class Pizza:
