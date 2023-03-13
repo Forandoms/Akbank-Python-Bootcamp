@@ -268,7 +268,7 @@ while (telephone_check):
 
                               else:
                                 last_year_check = False
-                                card_password = int((" Please enter your password:"))
+                                card_password = int(input((" Please enter your password:")))
 
                                 while (Card_password_check):
 
@@ -279,7 +279,7 @@ while (telephone_check):
                                         Card_password_check = False
                                         print ( "Your information is being checked. ")
                                         time.sleep (3)
-                                        print(" Ödemeniz alındı. ")
+                                        print(" Your payment has been received. ")
                                         print ("Bon Appétit")
                                         break
                                         
